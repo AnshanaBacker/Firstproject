@@ -1,5 +1,5 @@
 package Mymavenproject;
-
+//same value,4 method
 public class Operations {
 	static float a=10;
 	static float b=5;
