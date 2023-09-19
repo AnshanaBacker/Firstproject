@@ -7,7 +7,7 @@ class First
 class Second extends First
 {
 	String a="Black";
-	
+
 public void display()
 {
 	System.out.println(a);

@@ -15,8 +15,9 @@ public void eat()
 	}  
 public void work()
 {  
-super.eat();  
+//super.eat();  
 eat();  
+super.eat();
 }  
 }  
 public class Supermethod {
